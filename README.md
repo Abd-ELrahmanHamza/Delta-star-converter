@@ -1,4 +1,4 @@
-# Alpha Star Converter Project
+# Delta Star Converter Project
 
 ## A) File content
 * Project source code (written with python)
