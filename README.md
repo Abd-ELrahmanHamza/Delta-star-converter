@@ -1,11 +1,9 @@
 # Alpha Star Converter Project
 
 ## A) File content
-* Project executable file 
 * Project source code (written with python)
-* README.md
-* README.pdf
-* Pictures associated with README.md file
+* README file
+* Images file
 
 ## B) Open executable file
 ![Run](Images/Run.JPG)
